@@ -80,7 +80,7 @@ With a foundational background in **Industrial Engineering**, I naturally gravit
 
 * **M.Sc. in Information Technology — Data Science** | *IMT Atlantique, France* `[Feb 2025 – Present]`
   * *Focus:* Semantic Web, Knowledge Graphs, NLP, Machine Learning, Decision Support Systems.
-* **B.Sc. in Industrial Engineering** | *International University – Vietnam National University, Vietnam* `[2018 – 2022]`
+* **B.Eng. in Industrial Engineering** | *International University – Vietnam National University, Vietnam* `[2018 – 2022]`
   * *Focus:* Process Optimization, Operations Research, Cost Minimization, Systems Engineering.
 
 ---
