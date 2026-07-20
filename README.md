@@ -46,6 +46,7 @@ With a foundational background in **Industrial Engineering**, I naturally gravit
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 ### 🔧 Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -60,7 +61,7 @@ With a foundational background in **Industrial Engineering**, I naturally gravit
 * **IMT Atlantique / Lab-STICC (UMR CNRS 6285)** | *Research Intern — Hybrid AI, Semantic Web & NLP* `[Jun 2026 – Present]`
   * Contributed to the **VAIATA** project (Octo'Pousse 2025 laureate) developing an intelligent assistant for maritime rescue (CROSS).
   * Modeled a maritime incident ontology and developed NLP pipelines for transcription, classification, and emergency level assessment.
-* **IMT Atlantique — LaTIM U1101** | *Data Scientist* `[Oct 2025 – Mar 2026]`
+* **IMT Atlantique — LaTIM U1101** | *Research Assistant* `[Oct 2025 – Mar 2026]`
   * Built predictive models on longitudinal medical data (Machine Learning & Survival Analysis) for medical decision support and patient loss-to-follow-up prediction.
 * **NielsenIQ** | *Research Analyst* `[Jun 2023 – Jan 2025]`
   * Managed large-scale survey databases and automated Python data pipelines / Power BI dashboards.
@@ -77,9 +78,9 @@ With a foundational background in **Industrial Engineering**, I naturally gravit
 
 ## 🎓 Education
 
-* **M.Sc. in Computer Science — Data Science** | *IMT Atlantique, France* `[Feb 2025 – Present]`
+* **M.Sc. in Information Technology — Data Science** | *IMT Atlantique, France* `[Feb 2025 – Present]`
   * *Focus:* Semantic Web, Knowledge Graphs, NLP, Machine Learning, Decision Support Systems.
-* **B.Sc. in Industrial Engineering** | *International University – VNU, Vietnam* `[2018 – 2022]`
+* **B.Sc. in Industrial Engineering** | *International University – Vietnam National University, Vietnam* `[2018 – 2022]`
   * *Focus:* Process Optimization, Operations Research, Cost Minimization, Systems Engineering.
 
 ---
