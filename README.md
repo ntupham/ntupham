@@ -3,7 +3,7 @@
 Hi there! 👋  
 I am **Ngoc Thu Uyen PHAM**, or you can call me **Bin**, a Master's student in Data Science at **IMT Atlantique** (France).
 
-My academic and research journey bridges **Hybrid Artificial Intelligence, Knowledge Representation, and Operational Research**. I am passionate about building **explainable, decision-support systems** by combining symbolic AI (Knowledge Graphs, Ontologies) with statistical machine learning and mathematical optimization. 
+My academic and research journey bridges **Hybrid Artificial Intelligence, Knowledge Representation, NLP, and Operational Research**. I am passionate about building **explainable, decision-support systems** by combining symbolic AI (Knowledge Graphs, Ontologies) with statistical machine learning and mathematical optimization. 
 
 With a foundational background in **Industrial Engineering**, I naturally gravitate towards solving complex real-world decision-making problems—focusing on process optimization, cost minimization, efficiency maximization, and multi-criteria trade-offs.
 
