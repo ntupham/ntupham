@@ -57,7 +57,7 @@ With a foundational background in **Industrial Engineering**, I naturally gravit
 
 ## 📌 Featured Research & Experience
 
-### 🧪 Research & Professional Experience
+### 📝 Research & Professional Experience
 * **IMT Atlantique / Lab-STICC (UMR CNRS 6285)** | *Research Intern — Hybrid AI, Semantic Web & NLP* `[Jun 2026 – Present]`
   * Contributed to the **VAIATA** project (Octo'Pousse 2025 laureate) developing an intelligent assistant for maritime rescue (CROSS).
   * Modeled a maritime incident ontology and developed NLP pipelines for transcription, classification, and emergency level assessment.
