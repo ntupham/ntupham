@@ -7,7 +7,7 @@ My academic and research journey bridges **Hybrid Artificial Intelligence, Knowl
 
 With a foundational background in **Industrial Engineering**, I naturally gravitate towards solving complex real-world decision-making problems—focusing on process optimization, cost minimization, efficiency maximization, and multi-criteria trade-offs.
 
-🎯 **I am currently seeking a PhD or Research Engineer position starting January 2027.**
+🎯 **I am currently seeking a Research Engineer/AI Engineer/Data Scientist or PhD position starting January 2027.**
 
 ---
 
