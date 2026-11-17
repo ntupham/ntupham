@@ -1,93 +1,168 @@
-# 💫 About Me
+# Hi there! I'm Ngoc Thu Uyen PHAM 👋
 
-Hi there! 👋  
-I am **Ngoc Thu Uyen PHAM**, or you can call me **Bin**, a Master's student in Data Science at **IMT Atlantique** (France).
+You can call me **Bin**!
 
-My academic and research journey bridges **Hybrid Artificial Intelligence, Knowledge Representation, NLP, and Operational Research**. I am passionate about building **explainable, decision-support systems** by combining symbolic AI (Knowledge Graphs, Ontologies) with statistical machine learning and mathematical optimization. 
+🎓 I'm a Master's student in **Information Technology – Data Science** at **IMT Atlantique, France**.
 
-With a foundational background in **Industrial Engineering**, I naturally gravitate towards solving complex real-world decision-making problems—focusing on process optimization, cost minimization, efficiency maximization, and multi-criteria trade-offs.
+🔬 My interests lie at the intersection of **Hybrid AI, Knowledge Representation, Machine Learning, Natural Language Processing, and Operations Research**. I enjoy exploring how symbolic knowledge, statistical learning, and mathematical modeling can support **explainable, reliable, and practical decision-support systems**.
 
-🎯 **I am currently seeking a Research Engineer/AI Engineer/Data Scientist or PhD position starting January 2027.**
+My background in **Industrial Engineering** helps me approach AI problems through optimization, systems thinking, and real-world decision-making.
+
+🎯 **Open to Research Engineer, AI/ML Engineer, Data Scientist, and PhD opportunities starting January 2027.**
 
 ---
 
 ## 🔬 Research & Technical Interests
 
-* **Hybrid AI & Semantic Web:** Knowledge Graphs, Ontologies (OWL, RDF, SPARQL), LLM-Symbolic Integration, Explainable AI (XAI).
-* **Machine Learning & Decision Support:** Supervised & Unsupervised Learning, Survival Analysis, Recommendation Systems, Multi-Criteria Decision Aiding (MCDA).
-* **Operational Research & Optimization:** Process Optimization, Operations Management, Cost Minimization & Resource Allocation.
-* **Natural Language Processing (NLP):** Information Extraction, Sentence Transformers, Text Classification, LLM Bias Mitigation.
+- **Hybrid AI & Knowledge Representation:** Knowledge Graphs, Ontologies, Semantic Web, Neural–Symbolic Approaches, Explainable AI.
+- **Machine Learning & Predictive Modeling:** Supervised and Unsupervised Learning, Ensemble Methods, Survival Analysis, Time-Series Modeling.
+- **NLP & Large Language Models:** Transformers, Semantic Embeddings, Text Classification, LLM Fine-tuning, Bias Mitigation.
+- **Operations Research & Decision Support:** Mathematical Optimization, Mixed-Integer Linear Programming, Metaheuristics, Multi-Criteria Decision Analysis.
+- **Emerging Research Interests:** Reliable AI Reasoning, Formal Methods, and Verification of Multi-Agent Systems.
 
 ---
 
-## 🌐 Contact & Socials
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntupham)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntupham20@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Plouzan%C3%A9%2C%20France-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntupham)
+
+📍 Plouzané, France
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-### 🧠 Semantic Web & Knowledge Representation
-![OWL](https://img.shields.io/badge/OWL-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-![RDF](https://img.shields.io/badge/RDF-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-![Protégé](https://img.shields.io/badge/Protégé-336699?style=for-the-badge)
+### 🧠 Knowledge Representation & Semantic Web
+![OWL](https://img.shields.io/badge/OWL-005A9C?style=flat-square)
+![RDF](https://img.shields.io/badge/RDF-005A9C?style=flat-square)
+![SPARQL](https://img.shields.io/badge/SPARQL-005A9C?style=flat-square)
+![Protégé](https://img.shields.io/badge/Protégé-336699?style=flat-square)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-4B0082?style=flat-square)
 
-### 🤖 Machine Learning, Optimization & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+### 🤖 Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### 📝 NLP & LLMs
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFCA28?style=flat-square)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-7B68EE?style=flat-square)
+![Semantic Embeddings](https://img.shields.io/badge/Semantic_Embeddings-008080?style=flat-square)
 
 ### 🗄️ Data Engineering & Analytics
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### 🔧 Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🔧 Programming & Development Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Research & Experience
+## 🔬 Research & Professional Experience
 
-### 📝 Research & Professional Experience
-* **Lab-STICC (UMR CNRS 6285) X VAIATA** | *Research Intern — Hybrid AI, Semantic Web & NLP* `[Jun 2026 – Present]`
-  * Contributed to the **VAIATA** project (Octo'Pousse 2025 laureate) developing an intelligent assistant for maritime rescue (CROSS).
-  * Modeled a maritime incident ontology and developed NLP pipelines for transcription, classification, and emergency level assessment.
-* **IMT Atlantique — LaTIM U1101** | *Research Assistant* `[Oct 2025 – Mar 2026]`
-  * Built predictive models on longitudinal medical data (Machine Learning & Survival Analysis) for medical decision support and patient loss-to-follow-up prediction.
-* **NielsenIQ** | *Research Analyst* `[Jun 2023 – Jan 2025]`
-  * Managed large-scale survey databases and automated Python data pipelines / Power BI dashboards.
-* **Groupe SEB** | *Data Analyst (project-based)* `[Oct 2022 – Apr 2023]`
-  * Developed interactive e-commerce performance analytics.
+### 🛟 Research Intern — Knowledge Representation & Hybrid AI
+**IMT Atlantique / Lab-STICC (UMR CNRS 6285) × VAIATA**  
+*8 June – 7 December 2026 | Brest, France*
 
-### 📚 Key Academic Projects
-* **Knowledge Graphs for Low-Resource Languages:** Designed an automatic exercise generator using a multilingual knowledge graph and a 5-level Vietnamese pronoun ontology.
-* **Medical Data Interoperability (HL7 FHIR):** Designed an OWL ontology conforming to HL7 FHIR standards for EHR interoperability.
-* **LLM Bias Mitigation Pipeline:** Fine-tuned `Qwen2.5-1.5B` model on a annotated multilingual corpus (25k sentences) using hybrid semantic embeddings and N-grams.
-* **Temporal Stability & Memory in LLMs:** Evaluated contextual memory and consistency using semantic metrics (BERTScore).
+- Developed a domain ontology for **VAIATA**, an AI-assisted maritime rescue project, to structure knowledge from an industrial partner's original data.
+- Exploring ontology visualization, knowledge explanation, and the integration of external wind and wave information.
+- Collaborating with teammates to define data-quality criteria for LLM-assisted information improvement and cross-checking of extracted information.
+
+### 🏥 Research Assistant — Machine Learning & Predictive Modeling
+**IMT Atlantique / LaTIM (U1101)**  
+*October 2025 – March 2026 | Brest, France*
+
+- Developed predictive models using machine learning and survival analysis on longitudinal healthcare data to study patient loss to follow-up.
+- Investigated associated risk factors to support data-driven medical decision-making.
+
+### 📊 Research Analyst
+**NielsenIQ**  
+*June 2023 – January 2025 | Ho Chi Minh City, Vietnam*
+
+- Automated international data-processing pipelines using Python.
+- Analyzed large-scale datasets to support research activities and business insights.
+
+### 📈 Data Analyst
+**Groupe SEB**  
+*October 2022 – April 2023 | Ho Chi Minh City, Vietnam*
+
+- Developed interactive dashboards for e-commerce performance analysis and business reporting.
+
+---
+
+## 📌 Selected Research & Technical Projects
+
+### 🌐 Multilingual Knowledge Graph Engine for Low-Resource Languages
+*April – May 2026 | Knowledge Graphs · Ontologies · NLP*
+
+- Designed a multi-level ontology of Vietnamese pronouns and developed a multilingual knowledge graph engine for adaptive language learning.
+- Built an automatic exercise-generation pipeline and evaluated the semantic consistency of generated content.
+
+### ⚖️ LLM Bias Mitigation — Hybrid Neural and Rule-Based Approach
+*March 2026 | LLM Fine-tuning · Semantic Embeddings · Hybrid AI*
+
+- Fine-tuned **Qwen2.5-1.5B** on an annotated multilingual corpus of **25,000 sentences**.
+- Combined semantic embeddings and lexical rules in a hybrid post-processing approach for bias mitigation.
+
+### 🏥 Medical Data Interoperability — HL7 FHIR
+*March 2026 | OWL · Semantic Web · Healthcare Data*
+
+- Designed an OWL ontology aligned with HL7 FHIR standards to support semantic representation and interoperability of healthcare records.
+
+### 💳 American Express Default Prediction
+*January 2026 | Machine Learning · Financial Risk Modeling*
+
+- Developed a default-risk classification pipeline using large-scale longitudinal financial data.
+- Engineered temporal features, including aggregations, lag variables, and monthly changes, while optimizing processing with **Polars and Parquet**.
+- Experimented with **LightGBM, XGBoost, CatBoost, and GRU**; designed a LightGBM–CatBoost stacking architecture with stratified cross-validation.
+
+### 📍 Hub Location Optimization
+*March – April 2025 | Operations Research · MILP · Metaheuristics*
+
+- Modeled a hub-location optimization problem using **Mixed-Integer Linear Programming (MILP)** and **Iterated Local Search**.
+
+### 🧪 Additional Machine Learning Projects
+
+- **NLP Spam Detection:** End-to-end SMS and email classification pipeline.
+- **Air Quality Prediction:** Time-series machine learning pipeline following CRISP-DM.
+- **Netflix Content Clustering:** Unsupervised learning for content segmentation.
+- **COVID-19 Time-Series Modeling:** ARIMA modeling with external variables.
 
 ---
 
 ## 🎓 Education
 
-* **M.Sc. in Information Technology — Data Science** | *IMT Atlantique, France* `[Feb 2025 – Present]`
-  * *Focus:* Semantic Web, Knowledge Graphs, NLP, Machine Learning, Decision Support Systems.
-* **B.Eng. in Industrial Engineering** | *International University – Vietnam National University, Vietnam* `[2019 – 2023]`
-  * *Focus:* Process Optimization, Operations Research, Cost Minimization, Systems Engineering.
+**Master's Degree in Information Technology – Data Science**  
+IMT Atlantique, France | February 2025 – Present  
+*Relevant coursework:* Applied Statistics, Machine Learning, NLP, Semantic Web, Knowledge Graphs, Graph Theory, Game Theory (classical game theory and auction mechanisms).
+
+**Bachelor's Degree in Industrial Engineering**  
+International University – Vietnam National University, Vietnam | 2018 – 2022  
+*Relevant coursework:* Operations Research, Mathematical Optimization, Probability and Statistics, Time-Series Forecasting, Modeling and Simulation, Multi-Criteria Decision Analysis, Systems Engineering.
 
 ---
 
 ## 🗣️ Languages
 
-* **Vietnamese:** Native
-* **English:** B2 / Professional
-* **French:** B2 / Professional
-* **Spanish:** A1
+- 🇻🇳 **Vietnamese:** Native
+- 🇬🇧 **English:** B2
+- 🇫🇷 **French:** B2
+- 🇪🇸 **Spanish:** A1
+
+---
+
+*Interested in research collaborations and opportunities involving knowledge-driven AI, machine learning, and intelligent decision-support systems.*
