@@ -11,7 +11,12 @@ My background in **Industrial Engineering** helps me approach AI problems throug
 🎯 **Open to Research Engineer, AI/ML Engineer, Data Scientist, and PhD opportunities starting January 2027.**
 
 ---
-
+## 📄 My CV
+https://img.shields.io/badge/%F0%9F%93%84_View_CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white
+https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_CV-34A853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white
+[![View CV](https://img.shields.io/badge/📄_View_CV-4285F4?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/CV_PHAM_Ngoc_Thu_Uyen_General_En.pdf)
+[![Download CV](https://img.shields.io/badge/⬇️_Download_CV-34A853?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/CV_PHAM_Ngoc_Thu_Uyen_General_En.pdf?raw=true)
+---
 ## 🔬 Research & Technical Interests
 
 - **Hybrid AI & Knowledge Representation:** Knowledge Graphs, Ontologies, Semantic Web, Neural–Symbolic Approaches, Explainable AI.
